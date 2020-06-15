@@ -1,0 +1,5 @@
+wxPython
+requests
+BeautifulSoup4
+selenium
+lxml
